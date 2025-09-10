@@ -3,7 +3,7 @@
 
 **Welcome, fellow developer!**
 
-This repository contains the "Custom Linux Distro Building Book," which documents the journey of building and developing the [Helwan Linux](https://helwan-linux.github.io/helwanlinux/index.html) distribution.
+This repository contains the "Custom Linux Distro Building Book," which documents the journey of building and developing the [Helwan Linux](https://helwan-linux.github.io/helwanlinux/download.html) distribution.
 
 This book is a completely open-source project, and we consider it a living guide that evolves with the community.
 
@@ -27,7 +27,7 @@ We welcome your participation in improving this guide and making it better. You 
 
 If you found this book useful, please share your thoughts with us:
 
-* **Rate the Book:** Leave a comment or review on the [official forum](https://helwan-linux.github.io/helwanlinux/index.html)
+* **Rate the Book:** Leave a comment or review on the [official website](https://helwan-linux.github.io/helwanlinux/index.html)
 * **Share the Book:** Share the book's link with your friends and colleagues in the tech community.
 
 Your contributions and support help enrich the Arabic technical content and make it accessible to everyone.
