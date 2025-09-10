@@ -30,4 +30,4 @@ If you found this book useful, please share your thoughts with us:
 * **Rate the Book:** Leave a comment or review on the [official website](https://helwan-linux.github.io/helwanlinux/index.html)
 * **Share the Book:** Share the book's link with your friends and colleagues in the tech community.
 
-Your contributions and support help enrich the Arabic technical content and make it accessible to everyone.
+Your contributions and support help enrich the technical content and make it accessible to everyone.
