@@ -1,33 +1,38 @@
+# Helwan Linux: Custom Linux Distro Building Book
 
-### **Helwan Linux: Custom Linux Distro Building Book**
+Welcome, fellow developer!
 
-**Welcome, fellow developer!**
+This repository contains the **"Custom Linux Distro Building Book"**, documenting the journey of building and developing the **Helwan Linux distribution**.
 
-This repository contains the "Custom Linux Distro Building Book," which documents the journey of building and developing the [Helwan Linux](https://helwan-linux.github.io/helwanlinux/download.html) distribution.
-
-This book is a completely open-source project, and we consider it a living guide that evolves with the community.
-
----
-
-### **Contributing to the Book**
-
-We welcome your participation in improving this guide and making it better. You can contribute by:
-
-* **Providing Feedback:** If you have any suggestions for improving the book's content or if you find any spelling or technical errors.
-* **Editing the Content:** You can submit pull requests directly to fix errors or add information.
-
-**How to get started?**
-1.  Fork this repository.
-2.  Make the required changes.
-3.  Submit a pull request.
+This book is a fully **open-source project** and a **living guide** that evolves with the community.
 
 ---
 
-### **Reviews and Ratings**
+## Contributing to the Book
 
-If you found this book useful, please share your thoughts with us:
+We welcome your help in improving this guide. You can contribute by:
 
-* **Rate the Book:** Leave a comment or review on the [official website](https://helwan-linux.github.io/helwanlinux/index.html)
-* **Share the Book:** Share the book's link with your friends and colleagues in the tech community.
+- **Providing Feedback**: Suggest improvements, report typos, or highlight technical issues.
+- **Editing the Content**: Submit pull requests to fix errors or add information.
 
-Your contributions and support help enrich the technical content and make it accessible to everyone.
+### Getting Started
+
+1. Fork this repository.
+2. Make the changes you want.
+3. Submit a pull request.
+
+### Anonymity / Credit
+
+- You may choose to be credited in the **CONTRIBUTORS** file or remain anonymous.
+- Both options are fully supported.
+
+---
+
+## Reviews and Sharing
+
+If you find this book useful, please help by:
+
+- **Rating the Book**: Leave a comment or review on the official website.
+- **Sharing the Book**: Share the link with friends or colleagues in the tech community.
+
+Your contributions help make the technical content richer and accessible to everyone.
